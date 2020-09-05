@@ -3,9 +3,9 @@
 # Aircraft bird strikes
 
 Dataset analysis in Tableau.
-Ironhack Berlin week 4 project
-Rinze Douma
-05/09/2020
+<br>Ironhack Berlin week 4 project
+<br>Rinze Douma
+<br>05/09/2020
 
 ## Content
 - [Project description](#Project-description)
