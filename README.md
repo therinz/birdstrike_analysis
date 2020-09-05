@@ -8,10 +8,10 @@ Rinze Douma
 05/09/2020
 
 ## Content
-[Project description](#Project-description)
-[Workflow](#Workflow)
-[Organization](#Organization)
-[Links](#Links)
+- [Project description](#Project-description)
+- [Workflow](#Workflow)
+- [Organization](#Organization)
+- [Links](#Links)
 
 ## Project description
 
