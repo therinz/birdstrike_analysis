@@ -209,3 +209,6 @@ workspace.xml
 .idea/
 venv/
 /uploads/
+
+# Tableau
+.twbr
