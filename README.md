@@ -2,7 +2,7 @@
 
 # Aircraft bird strikes
 
-Dataset analysis in Tableau.
+Dataset analysis in [Tableau](https://public.tableau.com/profile/therinz#!/).
 <br>Ironhack Berlin week 4 project
 <br>Rinze Douma
 <br>05/09/2020
